@@ -1,0 +1,36 @@
+h1 {
+    margin:auto;
+    display:block;
+    text-align: center;
+}
+
+.navbar{
+    display:inline;
+    background-color: green;
+    text-align:right;
+    word-spacing:10px;
+    
+}
+.image{
+    
+    border: 15px solid green;
+    padding: 10px;
+    margin:  50px auto 20px auto ;
+    display:block;
+}
+div p {
+    display:block;
+    margin:auto;
+    text-align: center;
+}
+
+.container{
+    display:block;
+    margin:auto;
+    background-color:lemonchiffon;
+
+}
+.footer{
+    background-color:green;
+    text-align: center;
+}
