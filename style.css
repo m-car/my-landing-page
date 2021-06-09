@@ -1,15 +1,18 @@
 h1 {
-    margin:auto;
+    margin:10px 20px;
     display:block;
     text-align: center;
 }
-
-.navbar{
+.navlink{
     display:inline;
+}
+.navbar{
+    display:block;
+    margin: auto;
     background-color: green;
-    text-align:right;
+   
     word-spacing:10px;
-    
+    position:fixed;
 }
 .image{
     
